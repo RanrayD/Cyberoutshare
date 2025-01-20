@@ -7,6 +7,8 @@ In addition, other interesting insights will also be recorded
 
 All articles are in the issue. Please refer to the link in the readme.md
 
+![Image](https://github.com/user-attachments/assets/21403e10-2a4e-4a2d-8b3e-2659a126c37c)
+
 ## 1. 工具使用及搭建
 [Git Bash工具，对Github Repo更新管理](https://github.com/RanrayD/Cyberoutshare/issues/2)  
 
