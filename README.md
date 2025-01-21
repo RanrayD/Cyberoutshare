@@ -27,3 +27,6 @@ All articles are in the issue. Please refer to the link in the readme.md
 [CyberSecurity News](https://www.securityweek.com/)  
 [darkreading news](https://www.darkreading.com/)  
 
+## 4. 数据安全实践
+[基于sftp交换敏感数据的方案](https://github.com/RanrayD/Cyberoutshare/issues/8)
+
