@@ -16,7 +16,7 @@ All articles are in the issue. Please refer to the link in the readme.md
 
 ## 2. 网络安全架构
 [云网络架构——负载均衡 | CDN | 高防 | GA | 安全组 | region | AP](https://github.com/RanrayD/Cyberoutshare/issues/4)
-
+[阿里云WAF的工作、配置逻辑及协同DDOS高防的防护架构](https://github.com/RanrayD/Cyberoutshare/issues/10)
 [DDOS及Hping3模拟攻击](https://github.com/RanrayD/Cyberoutshare/issues/3)
 
 ## 3. Website及Webinars
