@@ -31,9 +31,9 @@ All articles are in the issue. Please refer to the link in the readme.md
 [基于sftp交换敏感数据的方案](https://github.com/RanrayD/Cyberoutshare/issues/8)
 
 ## 5. 基于LLM的AI实践
-[基于Dify+DeepseekR1开发信息安全问答助手](https://github.com/RanrayD/Cyberoutshare/issues/13)
-[基于DeepSeek-R1搭建个人知识库](https://github.com/RanrayD/Cyberoutshare/issues/12)
-[Ollama 搭建本地 AI 大模型 deepseek](https://github.com/RanrayD/Cyberoutshare/issues/14)
+[基于Dify+DeepseekR1开发信息安全问答助手](https://github.com/RanrayD/Cyberoutshare/issues/13)  
+[基于DeepSeek-R1搭建个人知识库](https://github.com/RanrayD/Cyberoutshare/issues/12)  
+[Ollama 搭建本地 AI 大模型 deepseek](https://github.com/RanrayD/Cyberoutshare/issues/14)  
 
 ## 6. 渗透测试及攻防实践
 [前端Sourcemap文件发现、扫描以及修复](https://github.com/RanrayD/Cyberoutshare/issues/11)
