@@ -28,7 +28,7 @@ All articles are in the issue. Please refer to the link in the readme.md
 [darkreading news](https://www.darkreading.com/)  
 
 ## 4. 数据安全实践
-[基于sftp交换敏感数据的方案](https://github.com/RanrayD/Cyberoutshare/issues/8)
+[基于sftp交换敏感数据的方案](https://github.com/RanrayD/Cyberoutshare/issues/8)  
 [解读“数据安全推进计划”--2024.12《数据安全治理实践指南4.0》](https://github.com/RanrayD/Cyberoutshare/issues/15)
 
 ## 5. 基于LLM的AI实践
